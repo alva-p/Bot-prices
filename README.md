@@ -1,4 +1,4 @@
-CryptoPriceBot
+PriceBot
 
 A Telegram bot that sends you cryptocurrency price updates every minute, with the time adjusted to your local timezone.
 
